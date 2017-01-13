@@ -1,1 +1,1 @@
-# Ovo je Lazarov drugi najbolji repozitorijum!
+# Ovo je Lazarov najbolji repozitorijum!
